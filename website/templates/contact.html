@@ -1,2 +1,65 @@
-<!-- your html code here -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .content {
+      padding: 20px;
+    }
+    .form-container {
+      background-color: #f1eeee;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container content">
+    <h1 ">Contact</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus, est id laoreet malesuada, justo eros aliquet est, vel tempus dolor felis non orci.</p>
+    <p>Nullam id ultrices diam. Curabitur eu augue in leo molestie finibus. Proin pharetra lectus eu lorem consequat, a mollis nisl rhoncus.</p>
+
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="form-container">
+         
+          <form>
+            <div class="form-group row">
+              <label for="email" class="col-sm-4 col-form-label text-right"><strong>Your Email</strong></label>
+              <div class="col-sm-8">
+                <input type="email" class="form-control" id="email" placeholder="Enter your email">
+              </div>
+            </div>
+            <div class="form-group row">
+              <label for="message" class="col-sm-4 col-form-label text-right"><strong>Your Message</strong></label>
+              <div class="col-sm-8">
+                <textarea class="form-control" id="message" rows="5" placeholder="Enter your message"></textarea>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-12 text-right">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS and dependencies (jQuery, Popper.js) -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
+
 <p>Hello, I'm contact.html</p>
