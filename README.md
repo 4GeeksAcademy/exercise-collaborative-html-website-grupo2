@@ -1,10 +1,15 @@
 Tasks:
-NavBar: Jose Parra
-One Page Wonder: Leonardo Chaves
-Heisenberg: Cesar Contreras
-The Second HEading: Luis Guerrero
-Portfolio: Yojan Stiben
-Contact: Juan Carlos Diaz
+NavBar: Jose Parra.
+
+One Page Wonder: Leonardo Chaves.
+
+Heisenberg: Cesar Contreras.
+
+The Second HEading: Luis Guerrero.
+
+Portfolio: Yojan Stiben.
+
+Contact: Juan Carlos Diaz.
 
 
 
