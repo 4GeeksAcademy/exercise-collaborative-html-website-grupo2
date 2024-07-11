@@ -1,3 +1,14 @@
+Tasks:
+NavBar: Jose Parra
+One Page Wonder: Leonardo Chaves
+Heisenberg: Cesar Contreras
+The Second HEading: Luis Guerrero
+Portfolio: Yojan Stiben
+Contact: Juan Carlos Diaz
+
+
+
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in Git while developing a typical website.
