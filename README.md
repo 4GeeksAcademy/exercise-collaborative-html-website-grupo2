@@ -3,7 +3,7 @@ NavBar: Jose Parra.
 
 One Page Wonder: Leonardo Chaves.
 
-Heisenberg: Cesar Contreras.
+The First Heading: Cesar Contreras.
 
 The Second HEading: Luis Guerrero.
 
