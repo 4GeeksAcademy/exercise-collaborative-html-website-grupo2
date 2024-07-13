@@ -1,3 +1,40 @@
-body{
+body {
     background: #BDBDBD;
+}
+
+
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.image-container img {
+    width: 100%;
+    height: 250px;
+}
+
+.centered-h1 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    font-size: 3rem;
+    background-color: rgba(255, 255, 255, .5);
+    width: 95%;
+    padding: 5px;
+    text-align: center;
+    color: black;
+}
+
+.centered-h2 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    font-size: 2rem;
+    background-color: rgba(255, 255, 255, .5);
+    width: 95%;
+    text-align: center;
+    color: black;
 }
